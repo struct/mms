@@ -3,11 +3,11 @@
 ## History
 
 This repo contains the slides for a training course originally developed in 2012. 
-It has been delivered to many students since its creation. Its sold out at the 
+It has been delivered to many students since its creation. It's sold out at the 
 Black Hat USA conference several years in a row. The content has gone through many
 iterations based on feedback from those classes. The original training focused
 mainly on browser vulnerability discovery and exploitation. This latest version
-still focuses on that but also covers more topics such custom memory allocators,
+still focuses on that but also covers more topics such as custom memory allocators,
 hardening concepts, and exploitation at a high level.
 
 ## Future
@@ -16,7 +16,7 @@ This training would not have been possible without open source projects to study
 or freely available texts from the security community. In fact, the security community
 is one of the best proponents of open source. I want to help continue that trend.
 
-We all know a technical training course isn't about the slides. Its about hands on
+We all know a technical training course isn't about the slides. It's about hands on
 interaction with tech, discussion with fellow students and the instructor. The
 instructors experience with the topic is also very important. So these slides are
 only a piece of the experience of taking the course. So one of the best contributions
